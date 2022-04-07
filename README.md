@@ -4,6 +4,8 @@
 
 Trabalho Final da disciplina de Estrutura de Dados.
 
+##### Status: Finalizado.
+
 ### Proposta:
 
 
